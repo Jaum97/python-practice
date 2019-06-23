@@ -6,3 +6,7 @@ if x == 1:
     print("x is 1.")
 else:
     print("x is not 1")
+    
+y = None
+
+y or print("y isn't truthly.")
