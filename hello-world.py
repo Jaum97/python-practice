@@ -10,3 +10,8 @@ else:
 y = None
 
 y or print("y isn't truthly.")
+
+people = ['John', 'Peter', 'Bob']
+
+for x in people:
+  print(x)
